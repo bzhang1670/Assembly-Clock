@@ -131,6 +131,8 @@ bored:
 
 	*/
 
+//Code from here and below was borrowed from professor
+
 	/*get_segs_m takes an argument in scr and returns the most significant LED
 	  segments (segs_h) and least significant LED segment (segs_l). The scr
 	  register is 0 to 59 for minutes
