@@ -143,7 +143,7 @@ set_hours:
 clear_hours:
 	clr hours
 	
-//Code from below was written by professor	
+	
 	
 	/*get_segs_m takes an argument in scr and returns the most significant LED
 	  segments (segs_h) and least significant LED segment (segs_l). The scr
