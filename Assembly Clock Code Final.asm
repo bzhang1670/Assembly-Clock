@@ -1,5 +1,5 @@
 /*
- * Prelab_10_Brian_Zhang.asm
+ * AssemblyCodeFinal.asm
  * Created: 11/13/2013 2:59:13 PM
  *  Author: @Brian_Zhang
  *
@@ -179,7 +179,6 @@ nc2_m:
 	// delay_21k simply calls delay 21 times
 delay_21k:
 	        rcall delay
-	                /*
 	        rcall delay
 	        rcall delay
 	        rcall delay
@@ -197,7 +196,6 @@ delay_21k:
 	        rcall delay
 	        rcall delay
 	        rcall delay
-	                */
 	        rcall delay
 	        rcall delay
 	        rcall delay
